@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/eatlas-template/static/css/main.7f904051.chunk.css",
+    "main.js": "/eatlas-template/static/js/main.e9a34b60.chunk.js",
+    "main.js.map": "/eatlas-template/static/js/main.e9a34b60.chunk.js.map",
+    "runtime-main.js": "/eatlas-template/static/js/runtime-main.4734df45.js",
+    "runtime-main.js.map": "/eatlas-template/static/js/runtime-main.4734df45.js.map",
+    "static/css/2.135a7cd2.chunk.css": "/eatlas-template/static/css/2.135a7cd2.chunk.css",
+    "static/js/2.78920855.chunk.js": "/eatlas-template/static/js/2.78920855.chunk.js",
+    "static/js/2.78920855.chunk.js.map": "/eatlas-template/static/js/2.78920855.chunk.js.map",
+    "static/js/3.43054b99.chunk.js": "/eatlas-template/static/js/3.43054b99.chunk.js",
+    "static/js/3.43054b99.chunk.js.map": "/eatlas-template/static/js/3.43054b99.chunk.js.map",
+    "index.html": "/eatlas-template/index.html",
+    "precache-manifest.8fa5740dbe77ce2332717e7fb08d5d06.js": "/eatlas-template/precache-manifest.8fa5740dbe77ce2332717e7fb08d5d06.js",
+    "service-worker.js": "/eatlas-template/service-worker.js",
+    "static/css/2.135a7cd2.chunk.css.map": "/eatlas-template/static/css/2.135a7cd2.chunk.css.map",
+    "static/css/main.7f904051.chunk.css.map": "/eatlas-template/static/css/main.7f904051.chunk.css.map",
+    "static/js/2.78920855.chunk.js.LICENSE.txt": "/eatlas-template/static/js/2.78920855.chunk.js.LICENSE.txt",
+    "static/media/location-icon-atlas.png": "/eatlas-template/static/media/location-icon-atlas.37932833.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4734df45.js",
+    "static/css/2.135a7cd2.chunk.css",
+    "static/js/2.78920855.chunk.js",
+    "static/css/main.7f904051.chunk.css",
+    "static/js/main.e9a34b60.chunk.js"
+  ]
+}
